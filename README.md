@@ -1,5 +1,5 @@
 # webpack-react
-自己动手用webpack搭建react脚手架
+自己动手用webpack搭建react脚手架 并制作TodoList
 用Webpack搭建React脚手架
 
 版本问题，都是血和泪啊啊啊啊
